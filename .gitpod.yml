@@ -3,3 +3,7 @@ image:
 
 tasks:
   - command: crystal spec -v
+
+vscode:
+  extensions:
+    - faustinoaq.crystal-lang@0.4.0:I0h+4m6OeYiYhRWQPFRabA==
