@@ -1,0 +1,13 @@
+name: gitpod-crystal
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  gitpod-crystal:
+    main: src/gitpod-crystal.cr
+
+crystal: 0.35.1
+
+license: MIT
