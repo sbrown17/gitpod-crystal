@@ -1,0 +1,4 @@
+{
+  "crystal-lang.compiler": "/usr/bin/crystal",
+  "crystal-lang.problems": "build"
+}
